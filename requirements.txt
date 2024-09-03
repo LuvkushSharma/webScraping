@@ -1,0 +1,9 @@
+python==3.12.5
+beautifulsoup4==4.12.3
+requests==2.32.3
+spacy==3.6.1
+urllib3==2.2.2
+uuid==1.30
+matplotlib==3.9.2
+spacy==3.7.6
+pandas==2.2.2
